@@ -1,9 +1,3 @@
-//
-//public class ReverseArray {
-//    static void main(int arr[], int a, int b){
-//
-//    }
-//}
 package Arrays.Logical_Problems;
 
 public class ReverseArray {
