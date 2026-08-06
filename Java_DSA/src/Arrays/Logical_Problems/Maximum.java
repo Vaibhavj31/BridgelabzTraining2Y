@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Logical_Problems;
 
 public class Maximum{
     static int max(int[] arr) {

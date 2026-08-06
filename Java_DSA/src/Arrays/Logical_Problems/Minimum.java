@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Logical_Problems;
 
 public class Minimum{
     static int min(int[] arr) {
